@@ -82,6 +82,10 @@ nav {
   margin-top: -1.5rem;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 .nav-header > h2 {
   margin-top: 0.25rem;
   color: white;
